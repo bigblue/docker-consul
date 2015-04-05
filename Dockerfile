@@ -27,5 +27,5 @@ VOLUME ["/data"]
 
 ENV SHELL /bin/bash
 
-ENTRYPOINT ["/bin/start"]
+ENTRYPOINT ["/bin/bash"]
 CMD []
